@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://Smart-Chonic-Solver.abirxdhack.github.io" target="_blank">Live Demo</a> •
+  <a href="https://mathsrv.lovable.app/" target="_blank">Live Demo</a> •
   <a href="https://github.com/abirxdhack/Smart-Chonic-Solver" target="_blank">GitHub Repo</a>
 </p>
 
